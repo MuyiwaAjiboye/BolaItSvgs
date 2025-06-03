@@ -1,0 +1,1184 @@
+/* Android Large - 6 */
+
+position: relative;
+width: 360px;
+height: 1278px;
+
+background: rgba(255, 255, 255, 0.97);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 360px;
+height: 231px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(.jpg);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 16px;
+top: 68px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 16px;
+top: 68px;
+
+background: #92B158;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 19px;
+height: 2.71px;
+left: 26px;
+top: 81px;
+
+background: #FFFFFF;
+border-radius: 2.03571px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 19px;
+height: 2.71px;
+left: 26px;
+top: 87.11px;
+
+background: #FFFFFF;
+border-radius: 2.03571px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 19px;
+height: 2.71px;
+left: 26px;
+top: 93.21px;
+
+background: #FFFFFF;
+border-radius: 2.03571px;
+
+
+/* Select Pick Up Option */
+
+position: absolute;
+width: 116px;
+height: 17px;
+left: 16px;
+top: 181px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+/* identical to box height, or 142% */
+display: flex;
+align-items: center;
+
+color: #A8A8A8;
+
+
+
+/* Instant Pick Up */
+
+position: absolute;
+width: 228px;
+height: 21px;
+left: 15px;
+top: 153px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 32px;
+/* or 107% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #FFFFFF;
+
+
+
+/* Select Location */
+
+position: absolute;
+width: 152px;
+height: 15px;
+left: 50px;
+top: 646px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #301000;
+
+
+
+/* Old Airport Road - Plateau */
+
+position: absolute;
+width: 149px;
+height: 9px;
+left: 50px;
+top: 669px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 32px;
+/* or 267% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #301000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.44%;
+right: 89.72%;
+top: 50.41%;
+bottom: 47.52%;
+
+background: #FF7A7A;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 328px;
+height: 368px;
+left: 16px;
+top: 701px;
+
+background: #D9D9D9;
+
+
+/* Basemap image */
+
+position: absolute;
+width: 491px;
+height: 368px;
+left: -79px;
+top: 703px;
+
+background: url(.png);
+mix-blend-mode: normal;
+
+
+/* Add / undefined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 324px;
+top: 645px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.51%;
+right: 14.57%;
+top: 12.5%;
+bottom: 14.59%;
+
+background: #212121;
+
+
+/* Frame 19 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 328px;
+height: 358px;
+left: 16px;
+top: 258px;
+
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 7 */
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* User Type */
+
+position: absolute;
+width: 54px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+
+color: #747980;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 50px;
+left: 0px;
+top: 29px;
+
+border: 1px solid #747980;
+border-radius: 3px;
+
+
+/* -- Select User Type -- */
+
+position: absolute;
+width: 120px;
+height: 16px;
+left: 14px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+color: #747980;
+
+
+
+/* Chevron Down / undefined / Glyph: undefined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 288px;
+top: 43px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 34.38%;
+bottom: 29.17%;
+
+background: #747980;
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 7 */
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Approximate Weight of Refuse */
+
+position: absolute;
+width: 164px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+
+color: #747980;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 50px;
+left: 0px;
+top: 29px;
+
+border: 1px solid #747980;
+border-radius: 3px;
+
+
+/* Enter Refuse Weight */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 14px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+color: #747980;
+
+
+
+/* Chevron Down / undefined / Glyph: undefined */
+
+position: absolute;
+visibility: hidden;
+width: 24px;
+height: 24px;
+left: 288px;
+top: 43px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 34.38%;
+bottom: 29.17%;
+
+background: #747980;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 7 */
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Date */
+
+position: absolute;
+width: 25px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+
+color: #747980;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 50px;
+left: 0px;
+top: 29px;
+
+border: 1px solid #747980;
+border-radius: 3px;
+
+
+/* -- Select Date -- */
+
+position: absolute;
+width: 87px;
+height: 16px;
+left: 13px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+color: #747980;
+
+
+
+/* Chevron Down / undefined / Glyph: undefined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 288px;
+top: 43px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 34.38%;
+bottom: 29.17%;
+
+background: #747980;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 7 */
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Time */
+
+position: absolute;
+width: 28px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+
+color: #747980;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 50px;
+left: 0px;
+top: 29px;
+
+border: 1px solid #747980;
+border-radius: 3px;
+
+
+/* -- Select Date -- */
+
+position: absolute;
+width: 87px;
+height: 16px;
+left: 14px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+color: #747980;
+
+
+
+/* Chevron Down / undefined / Glyph: undefined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 288px;
+top: 43px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 34.38%;
+bottom: 29.17%;
+
+background: #747980;
+
+
+/* Frame 18 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group 7 */
+
+width: 328px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Number of Seats */
+
+position: absolute;
+width: 91px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+display: flex;
+align-items: center;
+
+color: #747980;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 50px;
+left: 0px;
+top: 29px;
+
+border: 1px solid #747980;
+border-radius: 3px;
+
+
+/* Select Vehicle */
+
+position: absolute;
+width: 80px;
+height: 16px;
+left: 14px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+color: #747980;
+
+
+
+/* Chevron Down / undefined / Glyph: undefined */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 288px;
+top: 43px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 34.38%;
+bottom: 29.17%;
+
+background: #747980;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 10px;
+
+position: absolute;
+width: 328px;
+height: 64px;
+left: 16px;
+top: 1094px;
+
+background: #92B158;
+border-radius: 4px;
+
+
+/* Button */
+
+width: 74px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 9.9%;
+top: 8.77%;
+bottom: 89.46%;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 9.9%;
+top: 8.77%;
+bottom: 89.46%;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Status Bar
+
+Automatically adapts to the background.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 20px;
+
+position: absolute;
+height: 43px;
+left: 0px;
+right: 0px;
+top: 2px;
+
+
+
+/* Content */
+
+width: 320px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Items */
+
+position: absolute;
+width: 316.18px;
+height: 13.33px;
+left: 1.16px;
+top: 5.33px;
+
+
+
+/* Items (Mask) */
+
+position: absolute;
+width: 316.18px;
+height: 13.33px;
+left: 1.16px;
+top: 5.33px;
+
+background: #FFFFFF;
+background-blend-mode: multiply;
+
+
+/* .System Status */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 4.00001px 0px;
+gap: 2px;
+
+position: absolute;
+width: 52px;
+height: 24px;
+right: -0.01px;
+top: calc(50% - 24px/2 + 0px);
+
+
+
+/* Wifi */
+
+width: 18.67px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* wifi */
+
+position: absolute;
+left: 10.71%;
+right: 10.71%;
+top: 12.5%;
+bottom: 16.67%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* Data */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* data */
+
+position: absolute;
+left: -6.61%;
+right: 29.16%;
+top: 14.22%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* .Battery */
+
+width: 13.33px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 13.33px;
+left: 2.67px;
+top: 1.33px;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* stroke */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* fill */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 16.67%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+border-radius: 0.666668px;
+
+
+/* Clock, notifications */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+position: absolute;
+width: 36px;
+height: 20px;
+left: 0px;
+top: calc(50% - 20px/2);
+
+
+
+/* 12:30 */
+
+width: 36px;
+height: 20px;
+
+/* android-text-styles/body-medium/semibold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+/* 100% Black */
+color: #000000;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* .Notifications */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+display: none;
+width: 60px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Blur Evenly */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* transparent
+
+This is used for system bars. Please do not delete this color style.
+*/
+background: #FFFFFF;
+background-blend-mode: multiply;
+/* blur/system-bars
+
+Used to provide a clean background for Auto Tint system bars.
+*/
+backdrop-filter: blur(75px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Auto Tint */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* auto-tint
+
+This is a dynamic tint that changes between black and white depending on the background. Check the Auto Tint page to learn more!
+*/
+background: linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), #FF0000;
+background-blend-mode: overlay, overlay, overlay, overlay, saturation, difference, saturation;
+

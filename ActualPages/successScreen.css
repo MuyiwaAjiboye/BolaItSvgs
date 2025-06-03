@@ -1,0 +1,1286 @@
+/* Android Large - 13 */
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 10px;
+
+position: absolute;
+width: 328px;
+height: 64px;
+left: 16px;
+top: 688px;
+
+background: #92B158;
+border-radius: 4px;
+
+
+/* Button */
+
+width: 107px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 10.31%;
+top: 12.73%;
+bottom: 84.43%;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 241px;
+height: 241px;
+left: 59px;
+top: 279px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 200px;
+height: 34px;
+left: 78px;
+top: 475px;
+
+background: #151401;
+
+
+/* character-1 */
+
+position: absolute;
+left: 21.18%;
+right: 21.85%;
+top: 35.16%;
+bottom: 37.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.41%;
+right: 27.04%;
+top: 45.15%;
+bottom: 50.37%;
+
+background: #22400A;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.09%;
+right: 21.85%;
+top: 46.1%;
+bottom: 38.94%;
+
+background: #22400A;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.13%;
+right: 26.63%;
+top: 49.62%;
+bottom: 48.68%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.45%;
+right: 25.33%;
+top: 52.41%;
+bottom: 46.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.65%;
+right: 27.92%;
+top: 51.41%;
+bottom: 47.25%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 52.82%;
+right: 28.52%;
+top: 46.55%;
+bottom: 50.6%;
+
+opacity: 0.3;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.82%;
+right: 28.52%;
+top: 46.55%;
+bottom: 50.6%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.27%;
+right: 26.97%;
+top: 46.32%;
+bottom: 50.37%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.27%;
+right: 34.2%;
+top: 61.06%;
+bottom: 36%;
+
+background: #263238;
+transform: rotate(-63.9deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 61.36%;
+right: 34.77%;
+top: 59.7%;
+bottom: 38.55%;
+
+background: #455A64;
+transform: rotate(-11.51deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 51.58%;
+right: 28.73%;
+top: 44.93%;
+bottom: 51.72%;
+
+background: #22400A;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.41%;
+right: 27.88%;
+top: 45.15%;
+bottom: 51.54%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.46%;
+right: 63.66%;
+top: 59.2%;
+bottom: 38.31%;
+
+background: #455A64;
+
+
+/* Group */
+
+position: absolute;
+left: 34.81%;
+right: 64.61%;
+top: 60.71%;
+bottom: 39.03%;
+
+opacity: 0.6;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.81%;
+right: 64.61%;
+top: 60.71%;
+bottom: 39.03%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 28.41%;
+right: 64.12%;
+top: 61.45%;
+bottom: 38.31%;
+
+opacity: 0.6;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.41%;
+right: 64.12%;
+top: 61.45%;
+bottom: 38.31%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.21%;
+right: 67.1%;
+top: 60.72%;
+bottom: 39.07%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.43%;
+right: 68.06%;
+top: 60.89%;
+bottom: 38.86%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.7%;
+right: 68.96%;
+top: 61.04%;
+bottom: 38.68%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.52%;
+right: 66.7%;
+top: 60.31%;
+bottom: 39.61%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.78%;
+right: 42.06%;
+top: 57.72%;
+bottom: 38.43%;
+
+background: #455A64;
+
+
+/* Group */
+
+position: absolute;
+left: 55.21%;
+right: 44.21%;
+top: 58.97%;
+bottom: 40.77%;
+
+opacity: 0.6;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.21%;
+right: 44.21%;
+top: 58.97%;
+bottom: 40.77%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 52.02%;
+right: 42.06%;
+top: 59.28%;
+bottom: 38.4%;
+
+opacity: 0.6;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.02%;
+right: 42.06%;
+top: 59.28%;
+bottom: 38.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.71%;
+right: 45.49%;
+top: 59.69%;
+bottom: 40.2%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.33%;
+right: 45.94%;
+top: 60.09%;
+bottom: 39.8%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.99%;
+right: 46.38%;
+top: 60.44%;
+bottom: 39.41%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.19%;
+right: 46.18%;
+top: 59.26%;
+bottom: 40.52%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.99%;
+right: 52.78%;
+top: 47.92%;
+bottom: 39.26%;
+
+background: #3E494F;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.32%;
+right: 43.97%;
+top: 49.48%;
+bottom: 40.14%;
+
+background: #3E494F;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.8%;
+right: 52.84%;
+top: 47.48%;
+bottom: 45.69%;
+
+background: #455A64;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.05%;
+right: 63.88%;
+top: 42.21%;
+bottom: 51.93%;
+
+background: #87431F;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.65%;
+right: 70.08%;
+top: 46.65%;
+bottom: 51.25%;
+
+background: #E0E0E0;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.18%;
+right: 67.61%;
+top: 47.35%;
+bottom: 46.1%;
+
+background: #3E494F;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.12%;
+right: 73.75%;
+top: 47.83%;
+bottom: 51.36%;
+
+background: #E0E0E0;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.73%;
+right: 74.51%;
+top: 47.49%;
+bottom: 51.9%;
+
+background: #E0E0E0;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.64%;
+right: 73.72%;
+top: 48.02%;
+bottom: 51.51%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.93%;
+right: 74.04%;
+top: 47.79%;
+bottom: 51.82%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.47%;
+right: 74.45%;
+top: 47.46%;
+bottom: 52.07%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.45%;
+right: 73.59%;
+top: 45.28%;
+bottom: 52.5%;
+
+background: #3E494F;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 72.57%;
+top: 47.01%;
+bottom: 52.05%;
+
+background: #E0E0E0;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.26%;
+right: 72.57%;
+top: 47%;
+bottom: 52.02%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.21%;
+right: 60.98%;
+top: 35.16%;
+bottom: 59.09%;
+
+background: #87431F;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.45%;
+right: 63.42%;
+top: 39.01%;
+bottom: 60.19%;
+
+background: #792D05;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.48%;
+right: 66.99%;
+top: 37.44%;
+bottom: 62.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.83%;
+right: 67.16%;
+top: 37.08%;
+bottom: 62.73%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.2%;
+right: 64.27%;
+top: 37.14%;
+bottom: 62.64%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.52%;
+right: 64.48%;
+top: 36.79%;
+bottom: 63.02%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.34%;
+right: 65.91%;
+top: 37%;
+bottom: 61.9%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.21%;
+right: 64.55%;
+top: 36.39%;
+bottom: 63.39%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.6%;
+right: 67.29%;
+top: 36.7%;
+bottom: 63.09%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.68%;
+right: 60.88%;
+top: 37.01%;
+bottom: 62.11%;
+
+background: #792D05;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.22%;
+right: 61.2%;
+top: 37.18%;
+bottom: 62.33%;
+
+background: #FF9A6C;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.31%;
+right: 64.93%;
+top: 38.03%;
+bottom: 61.57%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.32%;
+right: 64.93%;
+top: 40.96%;
+bottom: 55.45%;
+
+background: #0D0D0D;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.7%;
+right: 52.53%;
+top: 39.27%;
+bottom: 50.84%;
+
+background: #0D0D0D;
+
+
+/* Group */
+
+position: absolute;
+left: 40.29%;
+right: 54.63%;
+top: 42.04%;
+bottom: 55.6%;
+
+opacity: 0.3;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.29%;
+right: 54.63%;
+top: 42.04%;
+bottom: 55.6%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.85%;
+right: 52.09%;
+top: 39.23%;
+bottom: 50.76%;
+
+background: #92B158;
+
+
+/* Group */
+
+position: absolute;
+left: 32.84%;
+right: 52.62%;
+top: 39.26%;
+bottom: 51.92%;
+
+opacity: 0.6;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.84%;
+right: 52.62%;
+top: 39.26%;
+bottom: 51.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.97%;
+right: 63.75%;
+top: 41.48%;
+bottom: 50.76%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.17%;
+right: 57.02%;
+top: 44.72%;
+bottom: 53.45%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.24%;
+right: 61.96%;
+top: 43.22%;
+bottom: 51.39%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.86%;
+right: 65.8%;
+top: 40.5%;
+bottom: 58.8%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.36%;
+right: 47.39%;
+top: 39.54%;
+bottom: 52.32%;
+
+background: #87431F;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.35%;
+right: 52.09%;
+top: 39.54%;
+bottom: 56.57%;
+
+background: #0D0D0D;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.18%;
+right: 46.33%;
+top: 46.55%;
+bottom: 50.52%;
+
+background: #0D0D0D;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.24%;
+right: 47.61%;
+top: 49.05%;
+bottom: 50.63%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.05%;
+right: 46.83%;
+top: 48.82%;
+bottom: 50.94%;
+
+background: #263238;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.48%;
+right: 48.3%;
+top: 48.31%;
+bottom: 50.69%;
+
+background: #263238;
+
+
+/* Success! */
+
+position: absolute;
+width: 144px;
+height: 31px;
+left: 108px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 30px;
+/* identical to box height, or 95% */
+
+color: #000000;
+
+
+
+/* we would be there shortly. Thank you for making our society cleaner */
+
+position: absolute;
+width: 212px;
+height: 48px;
+left: 73px;
+top: 167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 13px;
+/* or 130% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Status Bar
+
+Automatically adapts to the background.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 20px;
+
+position: absolute;
+height: 43px;
+left: 0px;
+right: 0px;
+top: 2px;
+
+
+
+/* Content */
+
+width: 320px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Items */
+
+position: absolute;
+width: 316.18px;
+height: 13.33px;
+left: 1.16px;
+top: 5.33px;
+
+
+
+/* Items (Mask) */
+
+position: absolute;
+width: 316.18px;
+height: 13.33px;
+left: 1.16px;
+top: 5.33px;
+
+background: #FFFFFF;
+background-blend-mode: multiply;
+
+
+/* .System Status */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 4.00001px 0px;
+gap: 2px;
+
+position: absolute;
+width: 52px;
+height: 24px;
+right: -0.01px;
+top: calc(50% - 24px/2 + 0px);
+
+
+
+/* Wifi */
+
+width: 18.67px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* wifi */
+
+position: absolute;
+left: 10.71%;
+right: 10.71%;
+top: 12.5%;
+bottom: 16.67%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* Data */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* data */
+
+position: absolute;
+left: -6.61%;
+right: 29.16%;
+top: 14.22%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* .Battery */
+
+width: 13.33px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 13.33px;
+left: 2.67px;
+top: 1.33px;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* stroke */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+
+
+/* fill */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 16.67%;
+bottom: 8.33%;
+
+/* material-theme/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1B1C17;
+border-radius: 0.666668px;
+
+
+/* Clock, notifications */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+position: absolute;
+width: 36px;
+height: 20px;
+left: 0px;
+top: calc(50% - 20px/2);
+
+
+
+/* 12:30 */
+
+width: 36px;
+height: 20px;
+
+/* android-text-styles/body-medium/semibold */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+/* 100% Black */
+color: #000000;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* .Notifications */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+display: none;
+width: 60px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Blur Evenly */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* transparent
+
+This is used for system bars. Please do not delete this color style.
+*/
+background: #FFFFFF;
+background-blend-mode: multiply;
+/* blur/system-bars
+
+Used to provide a clean background for Auto Tint system bars.
+*/
+backdrop-filter: blur(75px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Auto Tint */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* auto-tint
+
+This is a dynamic tint that changes between black and white depending on the background. Check the Auto Tint page to learn more!
+*/
+background: linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #FFFFFF, #FFFFFF), #FF0000;
+background-blend-mode: overlay, overlay, overlay, overlay, saturation, difference, saturation;
+
